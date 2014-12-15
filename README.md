@@ -1,4 +1,4 @@
 points-frontend
 ===============
 
-html-js frontend for points game
+html-js frontend for points game, DRAFT
